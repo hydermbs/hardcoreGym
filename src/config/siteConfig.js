@@ -1,11 +1,13 @@
+import logoUrl from "../assets/logo.png";
+
 const siteConfig = {
-  gymName: "IronPeak Gym",
-  logo: null,
+  gymName: "HARD CORE GYM",
+  logo: logoUrl,
   primaryColor: "#e11d48",
 
   seo: {
-    title: "IronPeak Gym — Train Hard. Live Strong.",
-    description: "IronPeak is a modern gym offering world-class equipment, expert trainers, and flexible memberships.",
+    title: "Hard Core Gym — Change Your Body. Change Your Life.",
+    description: "Hard Core Gym is a modern gym offering world-class equipment, expert trainers, and flexible memberships.",
   },
 
   nav: {
@@ -153,9 +155,9 @@ const siteConfig = {
   contact: {
     heading: "Get In Touch",
     subheading: "Ready to start? Drop us a message and we'll get back to you within 24 hours.",
-    address: "123 Iron Street, Fitness City, FC1 2AB",
-    phone: "+1 (555) 123-4567",
-    email: "hello@ironpeakgym.com",
+    address: "building 21 al khalidiya street najma area doha qatar, Qatar",
+    phone: "+97477720781",
+    email: "hardcoregym2022@gmail.com",
     formspreeEndpoint: null,
   },
 
@@ -163,7 +165,7 @@ const siteConfig = {
     tagline: "Train Hard. Live Strong.",
     socialLinks: [
       { label: "Instagram", href: "#" },
-      { label: "Facebook", href: "#" },
+      { label: "Facebook", href: "https://www.facebook.com/HARDCOREDOHA/" },
       { label: "Twitter", href: "#" },
     ],
   },
